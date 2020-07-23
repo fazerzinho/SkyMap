@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SkyMap.iml" filepath="$PROJECT_DIR$/.idea/SkyMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyMap-back/skyMap-back.iml" filepath="$PROJECT_DIR$/skyMap-back/skyMap-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyMap-front/skyMap-front.iml" filepath="$PROJECT_DIR$/skyMap-front/skyMap-front.iml" />
+    </modules>
+  </component>
+</project>
