@@ -1,0 +1,11 @@
+C:\Users\Wiktor\Documents\GitHub\SkyMap\skyMap-back\target\release\deps\proc_macro2-6365411fc2a3d9c3.rmeta: C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\Wiktor\Documents\GitHub\SkyMap\skyMap-back\target\release\deps\libproc_macro2-6365411fc2a3d9c3.rlib: C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\Wiktor\Documents\GitHub\SkyMap\skyMap-back\target\release\deps\proc_macro2-6365411fc2a3d9c3.d: C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs:
+C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs:
+C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs:
+C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs:
+C:\Users\Wiktor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs:
