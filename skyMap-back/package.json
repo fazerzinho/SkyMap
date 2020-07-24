@@ -1,0 +1,9 @@
+{
+  "name": "skyMap-back",
+  "version": "1.0.0",
+  "dependencies": {
+    "wasm-server": "0.0.4",
+    "webpack": "4.44.0",
+    "webpack-cli": "3.3.12"
+  }
+}
